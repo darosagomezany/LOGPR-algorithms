@@ -1,17 +1,31 @@
 LOGIC ——— From Everyday Decisions to Building Programs
 
-Logic, the systematic approach to clear and reasoned thinking, permeates not only the scholarly realm of philosophy but also the most unexpected corners of our daily lives. Developed by ancient Greek thinkers like Aristotle, logic provides a framework for evaluating information, forming sound arguments, and ultimately, making informed decisions.
+Logic, the systematic approach to clear and reasoned thinking, permeates not only the scholarly realm of philosophy but also
+the most unexpected corners of our daily lives. Developed by ancient Greek thinkers like Aristotle, logic provides a framework
+for evaluating information, forming sound arguments, and ultimately, making informed decisions.
 
-Consider a simple scenario: you're running late for work and debating between taking the bus or the train. Logic can help! You know the bus route is often congested, while the train departs less frequently. By applying logic, you can analyze these facts. If efficiency is your priority, the train might be the better option despite its schedule. This is a basic example of how we use logical reasoning to navigate everyday choices, big or small.
+Consider a simple scenario: you're running late for work and debating between taking the bus or the train. Logic can help!
+You know the bus route is often congested, while the train departs less frequently. By applying logic, you can analyze these facts.
+If efficiency is your priority, the train might be the better option despite its schedule. This is a basic example of how we use
+logical reasoning to navigate everyday choices, big or small.
 
-Now, let's delve into the world of programming. At its core, programming is the art of giving precise instructions to a computer. These instructions, written in a specific programming language, need to be clear, unambiguous, and follow a logical order. This is where logic becomes the programmer's best friend.
+Now, let's delve into the world of programming. At its core, programming is the art of giving precise instructions to a computer.
+These instructions, written in a specific programming language, need to be clear, unambiguous, and follow a logical order.
+This is where logic becomes the programmer's best friend.
 
-Logic forms the foundation of programming constructs like conditional statements (if/else), loops (for/while), and functions. Conditional statements allow the program to make decisions based on certain conditions, just like you decided between the bus and train. Loops enable the program to repeat a set of instructions a specific number of times, ensuring efficient execution. Functions, reusable blocks of code, promote modularity and logical organization within a program.
-Why is mastering logic so crucial for programmers? Simply put, logical thinking ensures the program functions as intended. Illogical code can lead to errors, unexpected behavior, and frustrating debugging sessions. A program that lacks logical flow might be inefficient, taking unnecessary steps to achieve a task. By understanding and applying logic, programmers write clear, efficient, and robust programs.
+Logic forms the foundation of programming constructs like conditional statements (if/else), loops (for/while), and functions.
+Conditional statements allow the program to make decisions based on certain conditions, just like you decided between the bus and
+train. Loops enable the program to repeat a set of instructions a specific number of times, ensuring efficient execution.
+Functions, reusable blocks of code, promote modularity and logical organization within a program.
+Why is mastering logic so crucial for programmers? Simply put, logical thinking ensures the program functions as intended.
+Illogical code can lead to errors, unexpected behavior, and frustrating debugging sessions. A program that lacks logical flow might
+be inefficient, taking unnecessary steps to achieve a task. By understanding and applying logic, programmers write clear, efficient,
+and robust programs.
 
 Test Your Learning!
 Imagine you're writing a program to calculate the area of a rectangle. Which of the following best exemplifies the logical approach?
-a) Write separate code blocks for calculating the area of a square and a triangle, even though the rectangle formula applies in both cases.
+a) Write separate code blocks for calculating the area of a square and a triangle, even though the rectangle formula applies in both
+cases.
 b) Define a function that takes the length and width of the rectangle as inputs and returns the calculated area using the formula.
 Think about how each option utilizes logical principles like code reusability and efficiency to make an informed decision!
 
