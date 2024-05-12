@@ -1,0 +1,83 @@
+1. COMPUTER SCIENCE: is the study of computers and computational systems. It encompasses the design
+and development of hardware and software, the creation of algorithms and data structures, and the investigation of
+computational problems and solutions.
+
+2. DATA: refers to raw, unorganized facts and figures that have not been processed or interpreted. It can include 
+numbers, text, images, or any other form of unprocessed information.
+
+3. INFORMATION: is processed, structured, and organized data that has been given meaning and context. It is data
+that has been interpreted and can be used to make decisions or take action.
+
+  - The key difference between data and information is that data is raw
+  and unorganized, while information is processed and meaningful.
+  Data is the building block of information, but it is only when data is
+  processed and interpreted that it becomes information.
+
+4. LOGIC: is the study of reasoning and argumentation. It is concerned with the principles and methods of correct 
+thinking and inference. Logic provides a framework for evaluating arguments, identifying fallacies, and drawing
+sound conclusions.
+
+  - Applied Logic to Computer Science: Applied logic is the application of
+  logical principles and techniques to solve problems in computer science.
+  It is used in a variety of areas, including:
+  Programming, logic is used to design and analyze algorithms, develop formal
+  specifications for software systems, and verify the correctness of programs;
+  Artificial Intelligence, logic is used to represent knowledge, reason about
+  the world, and make decisions;
+  Database Management, logic is used to design and query databases, enforce
+  data integrity, and ensure data consistency;
+
+5. VARIABLES:  is a placeholder in a computer program that can hold a value. The value of a variable can change
+during the execution of a program. Variables are used to store and manipulate data, and they are essential for
+writing efficient and reusable code.
+
+6. APPLICATION: is a type of software that performs a specific task for a user. Applications are designed to be
+used by end-users, and they typically have a graphical user interface (GUI) that makes them easy to interact with.
+Examples of applications include word processors, web browsers, media players, and games.
+
+7. PROGRAM: is a set of instructions that tells a computer what to do. Programs are written in a programming language,
+which is a human-readable language that can be translated into machine code by a compiler or interpreter. Programs can
+be used to perform a wide variety of tasks, from simple calculations to complex simulations.
+
+8. SOFTWARE: is a general term that refers to all computer programs and related data. It encompasses all of the
+instructions, data, and documentation that are used to operate a computer system. Software can be classified into
+two main categories:
+  - Application software: is designed to perform specific tasks for users, such as word processing, web browsing,
+  or playing games.
+  - System software: is designed to manage the hardware and resources of a computer system, such
+  as the operating system, device drivers, and utilities.
+
+9. FLOWCHART (block diagram): is a type of diagram that represents a process, system, or algorithm. It uses symbols
+and connecting lines to show the steps involved in a process and the flow of information between them. Flowcharts are
+used in a wide variety of fields, including computer science, business, engineering, and education.
+
+10. CODING: is the process of writing computer programs using a programming language. It involves translating
+human-readable code into machine-readable instructions that can be executed by a computer. Coding requires a
+combination of logical thinking, problem-solving skills, and knowledge of programming syntax and semantics.
+
+11. INSTRUCTION: is a specific command or directive that tells a computer what to do. Instructions are typically
+written in a programming language and are executed sequentially by the computer. Instructions form the building
+blocks of computer programs, and they are essential for carrying out tasks and achieving desired outcomes.
+
+12. STANDARDIZATION: is the process of establishing uniform specifications or guidelines for products, processes,
+or services. It aims to ensure consistency, compatibility, and interoperability across different implementations.
+Standardization is often carried out by industry organizations or government bodies to promote efficiency, safety,
+and quality.
+
+  - Distinguishing Algorithm from Coding, Instruction, and Standardization:
+  While coding, instruction, and standardization are all related to computer
+  programming and problem-solving, they differ from algorithms in the following ways:
+  Coding: Coding is the implementation of an algorithm using a specific programming
+  language. It involves translating the logical steps of the algorithm into
+  machine-readable code.
+  Instruction: An instruction is a single, specific command within a program. It
+  represents a basic step in the execution of an algorithm.
+  Standardization: Standardization focuses on establishing uniform guidelines for
+  programming practices, data formats, or communication protocols. It doesn't directly
+  define algorithms but rather regulates how algorithms are implemented or used.
+
+13. PSEUDOCODE: is an informal and simplified representation of an algorithm or program. It is not a programming
+language itself, but rather uses natural language combined with programming elements to describe the steps and logic
+of a process.
+
+...
