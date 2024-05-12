@@ -1,0 +1,33 @@
+1. Given the premises below, check which sentences represent the correct conclusion:
+
+  1 - Horses are animals. Animals have legs. Therefore
+  a) Horses have legs.
+  b) All animals are horses.
+  c) Horses have four legs.
+
+  2 - Rectangles are figures that have angles. This figure has no angles. Therefore
+  a) This figure could be a circle.
+  b) No conclusions can be drawn. 
+  c) This figure is not a rectangle.
+
+  3 - If green is strong, red is soft. If yellow is soft, blue is medium. But either
+  green is strong or yellow is soft. Strong, soft and medium are the only shades
+  possible. Therefore
+  a) Blue is medium.
+  b) Red is soft or blue is medium.
+  c) Yellow and red are soft.
+
+2. Answer:
+
+  a) What is the importance of logic for Computer Science? 
+  b) Describe some activities related to your day-to-day life in which the use of logic is 
+  present and perceptible.
+
+———————————
+Answer Key!
+1 - (1 - a, 2 - c, 3 - b)
+2 - a) Logic equips computer scientists with the tools to think systematically, solve problems effectively,
+and build reliable software systems. It's the foundation for clear communication of ideas and ensures the
+computers we interact with operate on sound reasoning principles.
+    b) In my day-to-day activities, logic is essential for problem-solving, language comprehension,
+    learning and adaptation, decision-making, error detection, and correction. It helps me analyze problems.
